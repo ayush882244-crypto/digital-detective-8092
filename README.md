@@ -23,3 +23,8 @@ this repository contains all missions for the digital detective assignment explo
 ## notes
 each mission is completed and committed separately following the assignment sequence
 no private passwords or personal tokens are included
+
+## my learning
+- learned how terminal commands allow fast file creation and navigation
+- learned how number systems convert between binary decimal and hex
+- learned how git commits track repository history safely
