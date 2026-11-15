@@ -12,7 +12,7 @@ completed final verification checklist
 ## 3 commands / tools used
 - git log --oneline: verify commit history across all missions
 - git status: ensure clean working directory
-- ls -R: verify all folders and files exist
+- find .: verify all folders and files exist
 
 ## 4 my understanding
 
