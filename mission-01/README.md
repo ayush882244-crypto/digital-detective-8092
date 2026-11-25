@@ -19,7 +19,7 @@ completed tables are in ipos.md hardware-software.md and everyday-systems.md
 ipos describes how computers handle data where input enters cpu processes it with ram screen displays output and disk stores files permanently
 
 ## difficulties and how resolved
-no difficulties faced
+HArdware vs. software overlap: initially confused firmware and system software components, resolved by reviewing their core functions and checking whether they are physical parts or stored instructions
 
 ## evidence and files
 - [ipos activity table](ipos.md)
