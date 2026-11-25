@@ -22,7 +22,8 @@ absolute paths start from root / while relative paths start from working directo
 permission letters r w x show read write and execute rights for owner group and others
 
 ## difficulties and how resolved
-no difficulties faced
+file permissions: reading `rwx` letters in `ls -l` was confusing at first, resolved by splitting them into owner, group, and others
+PROCESS list: finding specific apps in `ps` output took time, reolved by checking the pid and command columns carefully
 
 ## evidence and files
 - [system inspection evidence](evidence/system-inspection.md)
@@ -30,5 +31,5 @@ no difficulties faced
 - [practice file inspected](../terminal-practice/notes.txt)
 
 ## commit details
-- commit message: complete os and file permissions mission
+- commit message: complete os and file permisions mission
 - published branch: main
