@@ -1,15 +1,15 @@
-# mission 8 - final project review
+# Mission 8 - final project review
 
 ## task and objective
 review full repository verify all mission folders evidence files and commits and summarize the project
 
-## work completed
+## Work completed
 - reviewed all mission reports and evidence files from mission 00 to mission 07
 - confirmed all local markdown links resolve correctly
 - verified python converter and bash arithmetic converter work properly
 - verified git commit history and pushed branches
 
-## final checklist
+## FINAL checklist
 - [x] all mission folders and readmes present
 - [x] evidence records linked from each mission readme
 - [x] root readme explains project topics and run instructions
@@ -17,19 +17,19 @@ review full repository verify all mission folders evidence files and commits and
 - [x] python converter and bash arithmetic converter tested
 - [x] git commit history and branches published
 
-## commands and tools used
+## Commands and tools used
 git log git status python3 bash
 
-## understanding
+## Understanding
 the final review verifies that all required tasks are completed documented and connected through clear indexes and evidence files
 
-## difficulties and how resolved
+## Difficulties and how resolved
 no difficulties faced
 
-## evidence and files
+## Evidence and files
 - [final review evidence](evidence/final-review.md)
 - [root project index](../README.md)
 
-## commit details
+## Commit details
 - commit message: complete final report and verify assignment submission
 - published branch: main
